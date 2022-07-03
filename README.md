@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-ERIKATAM8/ERIKATAM8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ERIKATAM8/ERIKATAM8 is a ✨ specialistai ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
